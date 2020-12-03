@@ -1,2 +1,2 @@
-# blog
-Using issues to record blog
+# note
+Using issues to record note
