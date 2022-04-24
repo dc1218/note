@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 sidebar:
   [lua](docs/lua.md)
   [skynet](docs/skynet.lua)
