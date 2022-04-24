@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 sidebar:
   [lua](docs/lua.md)
   [skynet](docs/skynet.lua)
