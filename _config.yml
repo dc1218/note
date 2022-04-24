@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+sidebar:
+  [lua](docs/lua.md)
+  [skynet](docs/skynet.lua)
