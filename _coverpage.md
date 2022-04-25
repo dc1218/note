@@ -1,4 +1,6 @@
 # Notes
 
-[⇩⇩⇩抄着抄着就会了⇩⇩⇩](README.md)
+[⇩⇩⇩你懂的⇩⇩⇩](README.md)
+
+[⇩⇩⇩抄就行⇩⇩⇩](README.md)
 
