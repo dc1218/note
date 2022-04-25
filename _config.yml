@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-architect
 sidebar:
   - [lua](docs/lua.md)
   - [skynet](docs/skynet.lua)
